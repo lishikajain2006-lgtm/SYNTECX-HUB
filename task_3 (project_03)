@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -92,7 +92,7 @@
         "id": "ywOwV1R_Stgh",
         "outputId": "df3737bc-862f-4beb-b813-5ab8598e3190"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -118,7 +118,7 @@
       "metadata": {
         "id": "XgjjEmtwSvXf"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -141,7 +141,7 @@
         "id": "sya7YUN4SxY9",
         "outputId": "5c271acf-ca6c-4aaf-8959-72f49204ff30"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -176,7 +176,7 @@
         "id": "_vYokj-eSytx",
         "outputId": "d7743780-a0dc-4d29-f3d2-16ca7d7129c0"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -204,7 +204,7 @@
         "id": "qLG8GPaCS0YW",
         "outputId": "ad0efa98-ef41-4fe7-b1cc-426c64dd7cf5"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -236,7 +236,7 @@
         "id": "kBURMavYS17V",
         "outputId": "3befe7bc-289f-498f-8bcc-c28edfefe86e"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -263,14 +263,14 @@
         "plt.show()\n"
       ],
       "metadata": {
+        "id": "_u-o9XZMS3Lk",
+        "outputId": "b5edd1ee-a3b3-45e5-fe41-51e40dea52a3",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 487
-        },
-        "id": "_u-o9XZMS3Lk",
-        "outputId": "b5edd1ee-a3b3-45e5-fe41-51e40dea52a3"
+        }
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -298,14 +298,14 @@
         "plt.show()\n"
       ],
       "metadata": {
+        "id": "RdVzRH-JS4j2",
+        "outputId": "a3caf895-caec-4f3a-de26-34a3d03116d7",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 521
-        },
-        "id": "RdVzRH-JS4j2",
-        "outputId": "a3caf895-caec-4f3a-de26-34a3d03116d7"
+        }
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -343,7 +343,7 @@
       "metadata": {
         "id": "Lo_rJu8mS6lk"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": []
     },
     {
